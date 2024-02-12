@@ -1,0 +1,111 @@
+*,
+html{
+    padding: 0px;
+    margin: 0px;
+}
+.ul_medsos{
+    display: flex;
+    height: 230px;
+    width: 100%;
+    justify-content: right;
+    align-items:center;
+}
+.container_alamat{
+    background-color: rgb(24, 112, 193);;
+    height: 40px;
+    border-radius: 8px;
+}
+
+.ul_alamat{
+    display: flex;
+    height: 40px;
+    width: 100%;
+    justify-content: right;
+    align-items: center;
+}
+
+
+.li_alamat{
+    color: aliceblue;
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+    font-size: 8;
+}
+
+.logo{
+    background-color: rgb(255, 255, 255);
+    height: 130px;
+}
+
+.ul_logo{
+    display: flex;
+    height: 130px;
+    width: 100%;
+    justify-content: left;
+    align-items: center;
+}
+
+.li_namalogo{
+    color: rgb(2, 39, 247);
+    list-style-type: none;
+    padding: 6px;
+    margin: 10px;
+    font-size: 35;
+    font-style: bold;
+}
+
+.container_navigator{
+    background-color: rgb(5, 159, 255);
+    height: 40px;
+    width: 100%;
+    
+}
+
+.ul_navigator{
+    background-color: rgb(24, 112, 193);;
+    display: flex;
+    height: 40px;
+    width: 64%;
+    justify-content: center;
+    align-items: center;
+    container-type:inherit;
+    border-radius: 3px;
+}
+
+.li_navigator{
+    color: rgb(255, 255, 255);
+    list-style-type:square;
+    padding: 6px;
+    margin: 10px;
+    font-size: 12;
+    font-style: bold;
+}
+
+.li_navigator:hover{
+   background-color: rgb(106, 106, 232);
+   border-radius: 8px;
+}
+
+.a_navbar{
+    color: aliceblue;
+}
+
+.nama{
+    background-color: aliceblue;
+    height: 40px;
+    width: 100%;
+}
+
+.ul_nama{
+    display: flex;
+    height: 40px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+
+}
+
+
+  
